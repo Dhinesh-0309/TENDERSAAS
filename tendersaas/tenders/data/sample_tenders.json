@@ -1,0 +1,178 @@
+[
+  {
+      "title": "IT Infrastructure Upgrade",
+      "sector": "IT",
+      "tender_type": "University",
+      "location": "Chennai",
+      "published_by": "Anna University",
+      "description": "Upgrading network infrastructure and software licensing.",
+      "tender_value": 2500000,
+      "deadline": "2025-04-30",
+      "status": "Open"
+  },
+  {
+      "title": "Smart Classroom Setup",
+      "sector": "Education",
+      "tender_type": "College",
+      "location": "Coimbatore",
+      "published_by": "PSG College of Technology",
+      "description": "Procurement and installation of smart classroom equipment.",
+      "tender_value": 1200000,
+      "deadline": "2025-05-15",
+      "status": "Open"
+  },
+  {
+      "title": "Road Repair and Maintenance",
+      "sector": "Construction",
+      "tender_type": "Government",
+      "location": "Madurai",
+      "published_by": "Tamil Nadu Highways Department",
+      "description": "Repairs and maintenance of NH road sections.",
+      "tender_value": 4800000,
+      "deadline": "2025-05-10",
+      "status": "Open"
+  },
+  {
+      "title": "Healthcare Equipment Supply",
+      "sector": "Healthcare",
+      "tender_type": "Government",
+      "location": "Tirunelveli",
+      "published_by": "Tamil Nadu Public Health Department",
+      "description": "Supply of medical diagnostic equipment to district hospitals.",
+      "tender_value": 3200000,
+      "deadline": "2025-04-25",
+      "status": "Open"
+  },
+  {
+      "title": "University Hostel Renovation",
+      "sector": "Construction",
+      "tender_type": "University",
+      "location": "Trichy",
+      "published_by": "Bharathidasan University",
+      "description": "Renovation and maintenance of student hostels.",
+      "tender_value": 3500000,
+      "deadline": "2025-06-05",
+      "status": "Open"
+  },
+  {
+      "title": "CCTV Surveillance System Installation",
+      "sector": "Security",
+      "tender_type": "University",
+      "location": "Dindigul",
+      "published_by": "Madurai Kamaraj University",
+      "description": "Installation of CCTV cameras across campus.",
+      "tender_value": 1800000,
+      "deadline": "2025-06-15",
+      "status": "Closed"
+  },
+  {
+      "title": "Metro Rail Station Development",
+      "sector": "Infrastructure",
+      "tender_type": "Government",
+      "location": "Chennai",
+      "published_by": "Chennai Metro Rail Limited",
+      "description": "Construction and modernization of new metro stations.",
+      "tender_value": 8000000,
+      "deadline": "2025-07-10",
+      "status": "Open"
+  },
+  {
+      "title": "Library Digitalization Project",
+      "sector": "Education",
+      "tender_type": "University",
+      "location": "Salem",
+      "published_by": "Periyar University",
+      "description": "Digitalization of library resources and book cataloging system.",
+      "tender_value": 900000,
+      "deadline": "2025-06-20",
+      "status": "Open"
+  },
+  {
+      "title": "AI-Based Traffic Monitoring System",
+      "sector": "Technology",
+      "tender_type": "Government",
+      "location": "Coimbatore",
+      "published_by": "Tamil Nadu Transport Department",
+      "description": "Installation of AI-powered traffic monitoring systems across the city.",
+      "tender_value": 4000000,
+      "deadline": "2025-05-25",
+      "status": "Open"
+  },
+  {
+      "title": "Rainwater Harvesting System Installation",
+      "sector": "Environment",
+      "tender_type": "College",
+      "location": "Erode",
+      "published_by": "Bannari Amman Institute of Technology",
+      "description": "Implementation of rainwater harvesting systems across campus.",
+      "tender_value": 600000,
+      "deadline": "2025-06-30",
+      "status": "Open"
+  },
+  {
+      "title": "IT Support Services for Government Offices",
+      "sector": "IT",
+      "tender_type": "Government",
+      "location": "Tirunelveli",
+      "published_by": "Tamil Nadu e-Governance Agency",
+      "description": "Annual maintenance and software support for e-Gov services.",
+      "tender_value": 4500000,
+      "deadline": "2025-04-28",
+      "status": "Open"
+  },
+  {
+      "title": "Green Energy Initiative",
+      "sector": "Renewable Energy",
+      "tender_type": "Government",
+      "location": "Vellore",
+      "published_by": "Tamil Nadu Energy Development Agency",
+      "description": "Implementation of solar energy projects in rural areas.",
+      "tender_value": 6000000,
+      "deadline": "2025-07-15",
+      "status": "Open"
+  },
+  {
+      "title": "Furniture Supply for Government Schools",
+      "sector": "Manufacturing",
+      "tender_type": "Government",
+      "location": "Karur",
+      "published_by": "Tamil Nadu Education Department",
+      "description": "Supply of desks and chairs to government schools.",
+      "tender_value": 2500000,
+      "deadline": "2025-05-30",
+      "status": "Open"
+  },
+  {
+      "title": "Bio-Waste Management System",
+      "sector": "Waste Management",
+      "tender_type": "Government",
+      "location": "Thanjavur",
+      "published_by": "Tamil Nadu Pollution Control Board",
+      "description": "Implementation of bio-waste recycling units.",
+      "tender_value": 2200000,
+      "deadline": "2025-06-25",
+      "status": "Open"
+  },
+  {
+      "title": "Drinking Water Supply Enhancement",
+      "sector": "Infrastructure",
+      "tender_type": "Government",
+      "location": "Kanyakumari",
+      "published_by": "Tamil Nadu Water Supply and Drainage Board",
+      "description": "Expansion of the urban drinking water supply network.",
+      "tender_value": 7000000,
+      "deadline": "2025-07-05",
+      "status": "Open"
+  },
+  {
+      "title": "Sports Equipment Procurement",
+      "sector": "Sports",
+      "tender_type": "College",
+      "location": "Cuddalore",
+      "published_by": "Annamalai University",
+      "description": "Procurement of sports equipment for university teams.",
+      "tender_value": 500000,
+      "deadline": "2025-06-10",
+      "status": "Open"
+  }
+]
